@@ -1,1 +1,1 @@
-web: gunicorn CovN.wsgi
+web: gunicorn CovN.wsgi --log-file -
